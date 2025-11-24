@@ -1,7 +1,7 @@
 ﻿# Smart Energy Meter Backend
 
 A comprehensive Node.js backend for Smart Energy Meter with Dashboard and AI Assistance, built with Express.js and MongoDB Atlas.
-
+(Not the final one)
 ##  Features
 
 - **User Management**: Registration, authentication, and profile management with JWT
